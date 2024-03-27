@@ -8,4 +8,4 @@ https://www.figma.com/file/uoSsIMy9tdSjE0NXQEmamS/Untitled?type=design&node-id=0
 
 Assignment-2 <br>
 Check this assign on Given Below Link My Portfolio Using HTML CSS & JS 
-https://bittukumartportfolio.netlify.app/
+https://66040608e405fe00aa797888--serene-arithmetic-91f794.netlify.ap
